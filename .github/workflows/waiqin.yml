@@ -2,7 +2,7 @@ name: waiqin demo deploy
 
 on:
   push:
-    branches: ['main', 'claude/insurance-ai-chatbot-demo-sXTnW']
+    branches: ['waiqin-demo']
 
 permissions:
   contents: read
